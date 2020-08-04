@@ -1,0 +1,72 @@
+body {
+    background-color: #fff;
+}
+
+.vscode-dark a {
+    /* color: #61AFEF; */
+    color: #2666ce;
+  }
+  
+  .vscode-dark b,
+  .vscode-dark strong {
+    /* color: #D19A66; */
+    color: #000000;
+  }
+  
+  .vscode-dark em {
+    color: #C678DD;
+  }
+  
+  .vscode-dark h1,
+  .vscode-dark h2,
+  .vscode-dark h3,
+  .vscode-dark h4,
+  .vscode-dark h5,
+  .vscode-dark h6 {
+    font-weight: 600;
+    /* color: #E06C75; */
+    color: #000000;
+    border-color: #3E4451;
+  }
+  
+  .vscode-dark,
+  .vscode-dark pre code {
+    /* color: #ABB2BF; */
+    color: #000000;
+  }
+  
+  .vscode-dark code {
+    color: #000000;
+    background-color: #f1f1f1;
+  }
+  
+  .vscode-dark pre:not(.hljs),
+  .vscode-dark code>div {
+    /* background-color: #2C313A; */
+    background-color: #f1f1f1;
+  }
+  
+  .vscode-dark table>thead>tr>th {
+    border-color: #3E4451;
+  }
+  
+  .vscode-dark h1,
+  .vscode-dark hr,
+  .vscode-dark table>tbody>tr+tr>td {
+    border-color: #3E4451;
+  }
+  
+  .vscode-dark blockquote {
+    color: #5C6370;
+    /* font-style: italic; */
+    background: transparent;
+    border-color: #d4d4d4;
+  }
+  
+  .vscode-dark.showEditorSelection .code-active-line:before {
+    border-left: 3px solid #E5C07B;
+  }
+  
+  .vscode-dark.showEditorSelection .code-line:hover:before {
+    border-left: 3px solid #3E4451;
+  }
